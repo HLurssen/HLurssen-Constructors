@@ -28,7 +28,7 @@ public class Player {
      * We should also set the level value to 1 in this constructor as follows:
      *      this.level = 1;
      *
-     * @param playerName the name of the player to be created.
+     * @param playerName the name of the player to be created..
      */
     public Player (String playerName) {
         this.playerName = playerName;
